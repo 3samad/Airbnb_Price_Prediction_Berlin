@@ -11,5 +11,6 @@ The main goal of this project is to use machine learning algorithms to assist th
 The dataset for Airbnb in Berlin is gathered from insideairbnb.com and then pre-processed using techniques like one-hot encoding, label encoder, StandardScaler and principle component analysis. The data set is divided into three parts for training, validation and testing. Next, feature selection is done to determine the most important features that contribute to the pricing, and the dimensionality of the dataset is reduced. 
 
 ## Streamlit Web Application
-Streamlit is designed to make the process of turning data scripts into shareable web apps as simple as possible. It’s built on top of Python and leverages the power of modern web frameworks, allowing you to prototype and deploy applications with minimal effort quickly.
+
+A Streamlit App has been created for the price prediction. Streamlit is designed to make the process of turning data scripts into shareable web apps as simple as possible. It’s built on top of Python and leverages the power of modern web frameworks, allowing you to prototype and deploy applications with minimal effort quickly.
  
